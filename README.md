@@ -14,8 +14,8 @@ This is a simple Pomodoro timer built using React. It allows users to set a sess
 Clone this repository and run the following commands to install dependencies and start the app:
 
 ```bash
-git clone https://github.com/Qyuzet/react-25+5-clock.git
-cd react-25+5-clock
+git clone https://github.com/Qyuzet/react-25-5-clock.git
+cd react-25-5-clock
 npm install
 npm start
 ```
